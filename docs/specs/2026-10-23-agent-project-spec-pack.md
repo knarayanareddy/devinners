@@ -7,20 +7,22 @@
 
 ## Purpose
 
+**Implementation update (2026-10-24):** project names in the table now link to self-contained, implementation-ready `SPEC.md` files. The dated short briefs remain available through each detailed spec’s source link. The shared principles below are embedded and expanded in each detailed spec.
+
 This pack defines ten independent, original agent-project briefs. Each one borrows a *quality principle* observed across strong human-facing agent projects—bounded autonomy, evidence, a complete workflow, and fail-closed handoffs—without copying their code, assets, datasets, branding, or exact use case. The briefs are alternatives, not ten features of one application.
 
 | Spec | Adjacent quality pattern | New project / target |
 |---|---|---|
-| [01 GrantSnap](2026-10-23-grantsnap-spec.md) | Photo intake + deterministic eligibility and arithmetic | Small nonprofits preparing grant reimbursement packets |
-| [02 VolunteerBalance](2026-10-23-volunteerbalance-spec.md) | Private constraints + measured fair allocation | Mutual-aid groups assigning recurring volunteer work |
-| [03 BridgeMentor](2026-10-23-bridgementor-spec.md) | Private agents + mutual consent | Adult learners seeking local mentors |
-| [04 ToolTutor](2026-10-23-tooltutor-spec.md) | Evidence-gated, one-step-at-a-time workflow | Makerspaces onboarding members to low-risk equipment |
-| [05 StreetVendor Radar](2026-10-23-streetvendor-radar-spec.md) | Quiet, profile-specific background monitoring | Independent mobile food vendors |
-| [06 UtilityShield](2026-10-23-utilityshield-spec.md) | Deterministic deadline queue + caseworker interrupt | Utility-assistance clinics in one verified jurisdiction |
-| [07 LibraryLoop](2026-10-23-libraryloop-spec.md) | Replay-tested bounded policies | Community tool-lending libraries handling return exceptions |
-| [08 ColdWatch](2026-10-23-coldwatch-spec.md) | Alert-triggered outreach + human escalation | Opt-in neighborhood cold-weather check-ins |
-| [09 CenterSignal](2026-10-23-centersignal-spec.md) | Voice readback + evidence-backed directory updates | One-city cooling/warming-center status directory |
-| [10 SchoolNotice](2026-10-23-schoolnotice-spec.md) | Grounded multilingual document-to-action workflow | Families processing school logistics notices |
+| [01 GrantSnap](grantsnap/SPEC.md) | Photo intake + deterministic eligibility and arithmetic | Small nonprofits preparing grant reimbursement packets |
+| [02 VolunteerBalance](volunteerbalance/SPEC.md) | Private constraints + measured fair allocation | Mutual-aid groups assigning recurring volunteer work |
+| [03 BridgeMentor](bridgementor/SPEC.md) | Private agents + mutual consent | Adult learners seeking local mentors |
+| [04 ToolTutor](tooltutor/SPEC.md) | Evidence-gated, one-step-at-a-time workflow | Makerspaces onboarding members to low-risk equipment |
+| [05 StreetVendor Radar](streetvendor-radar/SPEC.md) | Quiet, profile-specific background monitoring | Independent mobile food vendors |
+| [06 UtilityShield](utilityshield/SPEC.md) | Deterministic deadline queue + caseworker interrupt | Utility-assistance clinics in one verified jurisdiction |
+| [07 LibraryLoop](libraryloop/SPEC.md) | Replay-tested bounded policies | Community tool-lending libraries handling return exceptions |
+| [08 ColdWatch](coldwatch/SPEC.md) | Alert-triggered outreach + human escalation | Opt-in neighborhood cold-weather check-ins |
+| [09 CenterSignal](centersignal/SPEC.md) | Voice readback + evidence-backed directory updates | One-city cooling/warming-center status directory |
+| [10 SchoolNotice](schoolnotice/SPEC.md) | Grounded multilingual document-to-action workflow | Families processing school logistics notices |
 
 ## How to hand a spec to an implementation agent
 
