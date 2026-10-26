@@ -93,4 +93,4 @@ Every project specification includes:
 - Local Markdown links resolve and no unfinished placeholder markers are present.
 - This index links every detailed specification.
 
-See the [end-to-end repository review](../review/2026-10-24-end-to-end-review.md) for findings, limitations, and recommended next steps.
+See the [2026-10-26 end-to-end repository review](../review/2026-10-26-end-to-end-review.md) for current findings and next steps, and the [2026-10-24 review](../review/2026-10-24-end-to-end-review.md) for the original remediation history.
