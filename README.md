@@ -5,7 +5,9 @@ This repository contains **25 standalone, implementation-ready product specifica
 ## Start here
 
 - **[Project specification index](docs/specs/README.md)** — all 25 detailed build packs, completion labels, and UI/UX baseline.
-- **[End-to-end repository review](docs/review/2026-10-24-end-to-end-review.md)** — inventory, findings, remediations, residual risks, and recommended rollout.
+- **[End-to-end repository review (2026-10-26)](docs/review/2026-10-26-end-to-end-review.md)** — current inventory, independent audit results, and open findings.
+- **[Independent-spec deep review (2026-10-26)](docs/review/2026-10-26-independent-specs-deep-review.md)** — per-document strengths, gaps, and consistency findings for the index + 10 independent-agent specifications.
+- **[End-to-end repository review (2026-10-24)](docs/review/2026-10-24-end-to-end-review.md)** — original findings, remediations, residual risks, and recommended rollout.
 - **[Original independent-agent briefs](docs/specs/2026-10-23-agent-project-spec-pack.md)** and **[Agentic Cinema briefs](docs/specs/agentic-cinema/README.md)** — historical provenance.
 
 ## Use one specification
